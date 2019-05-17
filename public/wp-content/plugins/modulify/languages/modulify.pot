@@ -1,0 +1,1002 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fotofly\n"
+"POT-Creation-Date: 2018-09-13 09:46+0500\n"
+"PO-Revision-Date: 2018-09-13 09:46+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../modulify-core.php:43 ../modulify-core.php:53
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. translators: 1: Modulify 2: Elementor
+#: ../modulify-core.php:110
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: ../modulify-core.php:111
+msgid "Modulify"
+msgstr ""
+
+#: ../modulify-core.php:112
+msgid "Elementor"
+msgstr ""
+
+#: ../modulify-plugin.php:45
+msgid "Modulify Elements"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:27
+msgid "Modulify Widgets"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:45
+msgid "Filter"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:53
+#: ../widgets/modulify-all-widgets.php:207
+#: ../widgets/modulify-all-widgets.php:1984
+#: ../widgets/modulify-all-widgets.php:2475
+#: ../widgets/modulify-all-widgets.php:2844
+msgid "Layout"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:56
+msgid "Carousel Circle"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:57
+msgid "Carousel Full Alpha"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:58
+msgid "Carousel Full Beta"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:59
+msgid "Carousel Full Interactive"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:60
+msgid "Carousel Square"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:61
+msgid "Carousel With Content"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:62
+msgid "List Justified"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:63
+msgid "List Masonry"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:64
+msgid "Slider Alpha"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:65
+msgid "Slider Beta"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:66
+msgid "Slider Delta"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:67
+msgid "Slider Epsilon"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:68
+msgid "Slider Gamma"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:69
+msgid "Slider Zeta"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:81
+#: ../widgets/modulify-all-widgets.php:84
+msgid "Module Title"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:83
+msgid "Module Title Here..."
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:92
+msgid "Module URL"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:94
+msgid "Module URL Here..."
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:102
+msgid "Module Category"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:104
+msgid "Module Category Here..."
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:105
+msgid "Category"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:113
+msgid "Module Image"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:123
+msgid "Module Items"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:128
+msgid "Alpha Title"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:129
+msgid "Modern"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:136
+msgid "Beta Title"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:137
+msgid "Colorful"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:144
+msgid "Gamma Title"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:145
+msgid "Beautiful"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:152
+msgid "Delta Title"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:153
+msgid "Amazing"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:160
+msgid "Epsilon Title"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:161
+msgid "Wonderful"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:168
+msgid "Eta Title"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:169
+msgid "Easy"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:189
+#: ../widgets/modulify-all-widgets.php:1102
+#: ../widgets/modulify-all-widgets.php:1398
+#: ../widgets/modulify-all-widgets.php:1697
+#: ../widgets/modulify-all-widgets.php:1965
+#: ../widgets/modulify-all-widgets.php:2384
+#: ../widgets/modulify-all-widgets.php:2658
+#: ../widgets/modulify-all-widgets.php:2825
+#: ../widgets/modulify-all-widgets.php:3176
+#: ../widgets/modulify-all-widgets.php:3439
+#: ../widgets/modulify-all-widgets.php:3700
+#: ../widgets/modulify-all-widgets.php:3959
+#: ../widgets/modulify-all-widgets.php:4235
+#: ../widgets/modulify-all-widgets.php:4497
+msgid "Design"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:198
+#: ../widgets/modulify-all-widgets.php:1111
+#: ../widgets/modulify-all-widgets.php:1407
+#: ../widgets/modulify-all-widgets.php:1706
+#: ../widgets/modulify-all-widgets.php:1975
+#: ../widgets/modulify-all-widgets.php:2466
+#: ../widgets/modulify-all-widgets.php:2668
+#: ../widgets/modulify-all-widgets.php:2835
+#: ../widgets/modulify-all-widgets.php:3187
+#: ../widgets/modulify-all-widgets.php:3448
+#: ../widgets/modulify-all-widgets.php:3709
+#: ../widgets/modulify-all-widgets.php:3968
+#: ../widgets/modulify-all-widgets.php:4244
+#: ../widgets/modulify-all-widgets.php:4506
+msgid "Main Styles"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:210
+#: ../widgets/modulify-all-widgets.php:1987
+#: ../widgets/modulify-all-widgets.php:2478
+msgid "Alpha"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:211
+#: ../widgets/modulify-all-widgets.php:1988
+#: ../widgets/modulify-all-widgets.php:2479
+msgid "Beta"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:212
+#: ../widgets/modulify-all-widgets.php:1989
+msgid "Gamma"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:213
+#: ../widgets/modulify-all-widgets.php:1991
+msgid "Numbered"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:214
+msgid "Numbered 2"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:224
+msgid "Image Thumb"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:227
+#: ../widgets/modulify-all-widgets.php:242
+#: ../widgets/modulify-all-widgets.php:274
+#: ../widgets/modulify-all-widgets.php:289
+#: ../widgets/modulify-all-widgets.php:303
+#: ../widgets/modulify-all-widgets.php:750
+#: ../widgets/modulify-all-widgets.php:1254
+#: ../widgets/modulify-all-widgets.php:1600
+#: ../widgets/modulify-all-widgets.php:1822
+#: ../widgets/modulify-all-widgets.php:2018
+#: ../widgets/modulify-all-widgets.php:2033
+#: ../widgets/modulify-all-widgets.php:2213
+#: ../widgets/modulify-all-widgets.php:2552
+#: ../widgets/modulify-all-widgets.php:2726
+#: ../widgets/modulify-all-widgets.php:3008
+#: ../widgets/modulify-all-widgets.php:3078
+#: ../widgets/modulify-all-widgets.php:3297
+#: ../widgets/modulify-all-widgets.php:3559
+#: ../widgets/modulify-all-widgets.php:3820
+#: ../widgets/modulify-all-widgets.php:4092
+#: ../widgets/modulify-all-widgets.php:4355
+#: ../widgets/modulify-all-widgets.php:4617
+msgid "Show"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:228
+#: ../widgets/modulify-all-widgets.php:243
+#: ../widgets/modulify-all-widgets.php:275
+#: ../widgets/modulify-all-widgets.php:290
+#: ../widgets/modulify-all-widgets.php:304
+#: ../widgets/modulify-all-widgets.php:751
+#: ../widgets/modulify-all-widgets.php:1255
+#: ../widgets/modulify-all-widgets.php:1601
+#: ../widgets/modulify-all-widgets.php:1823
+#: ../widgets/modulify-all-widgets.php:2019
+#: ../widgets/modulify-all-widgets.php:2034
+#: ../widgets/modulify-all-widgets.php:2214
+#: ../widgets/modulify-all-widgets.php:2553
+#: ../widgets/modulify-all-widgets.php:2727
+#: ../widgets/modulify-all-widgets.php:3009
+#: ../widgets/modulify-all-widgets.php:3079
+#: ../widgets/modulify-all-widgets.php:3298
+#: ../widgets/modulify-all-widgets.php:3560
+#: ../widgets/modulify-all-widgets.php:3821
+#: ../widgets/modulify-all-widgets.php:4093
+#: ../widgets/modulify-all-widgets.php:4356
+#: ../widgets/modulify-all-widgets.php:4618
+msgid "Hide"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:239
+msgid "Hover Thumb"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:254
+msgid "Background Line"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:257
+#: ../widgets/modulify-all-widgets.php:2509
+#: ../widgets/modulify-all-widgets.php:2894
+msgid "Gradient Overlay"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:258
+#: ../widgets/modulify-all-widgets.php:2508
+#: ../widgets/modulify-all-widgets.php:2893
+msgid "Color Overlay"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:271
+#: ../widgets/modulify-all-widgets.php:2015
+msgid "Box Shadow for Active Item"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:286
+#: ../widgets/modulify-all-widgets.php:300
+#: ../widgets/modulify-all-widgets.php:2030
+msgid "Box Shadow Item on hover"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:315
+#: ../widgets/modulify-all-widgets.php:399
+#: ../widgets/modulify-all-widgets.php:459
+#: ../widgets/modulify-all-widgets.php:515
+#: ../widgets/modulify-all-widgets.php:627
+msgid "Navigation Icon Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:340
+#: ../widgets/modulify-all-widgets.php:420
+msgid "Navigation Icon Hover Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:361
+#: ../widgets/modulify-all-widgets.php:439
+#: ../widgets/modulify-all-widgets.php:478
+#: ../widgets/modulify-all-widgets.php:536
+#: ../widgets/modulify-all-widgets.php:648
+#: ../widgets/modulify-all-widgets.php:1227
+#: ../widgets/modulify-all-widgets.php:1573
+#: ../widgets/modulify-all-widgets.php:1795
+#: ../widgets/modulify-all-widgets.php:2106
+#: ../widgets/modulify-all-widgets.php:2146
+#: ../widgets/modulify-all-widgets.php:3270
+#: ../widgets/modulify-all-widgets.php:3532
+#: ../widgets/modulify-all-widgets.php:3793
+#: ../widgets/modulify-all-widgets.php:4065
+#: ../widgets/modulify-all-widgets.php:4328
+#: ../widgets/modulify-all-widgets.php:4590
+msgid "Navigation Background Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:380
+#: ../widgets/modulify-all-widgets.php:2521
+msgid "Title Background Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:496
+#: ../widgets/modulify-all-widgets.php:2183
+msgid "Line Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:554
+#: ../widgets/modulify-all-widgets.php:666
+msgid "Number Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:572
+#: ../widgets/modulify-all-widgets.php:684
+msgid "Number Background Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:590
+#: ../widgets/modulify-all-widgets.php:702
+msgid "Number Active Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:608
+#: ../widgets/modulify-all-widgets.php:720
+msgid "Number Active Background Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:738
+#: ../widgets/modulify-all-widgets.php:1242
+#: ../widgets/modulify-all-widgets.php:1588
+#: ../widgets/modulify-all-widgets.php:1810
+#: ../widgets/modulify-all-widgets.php:2201
+#: ../widgets/modulify-all-widgets.php:2540
+#: ../widgets/modulify-all-widgets.php:2714
+#: ../widgets/modulify-all-widgets.php:3066
+#: ../widgets/modulify-all-widgets.php:3285
+#: ../widgets/modulify-all-widgets.php:3547
+#: ../widgets/modulify-all-widgets.php:3808
+#: ../widgets/modulify-all-widgets.php:4080
+#: ../widgets/modulify-all-widgets.php:4343
+#: ../widgets/modulify-all-widgets.php:4605
+msgid "Category Style"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:747
+#: ../widgets/modulify-all-widgets.php:1251
+#: ../widgets/modulify-all-widgets.php:1597
+#: ../widgets/modulify-all-widgets.php:1819
+#: ../widgets/modulify-all-widgets.php:2210
+#: ../widgets/modulify-all-widgets.php:2549
+#: ../widgets/modulify-all-widgets.php:2723
+#: ../widgets/modulify-all-widgets.php:3075
+#: ../widgets/modulify-all-widgets.php:3294
+#: ../widgets/modulify-all-widgets.php:3556
+#: ../widgets/modulify-all-widgets.php:3817
+#: ../widgets/modulify-all-widgets.php:4089
+#: ../widgets/modulify-all-widgets.php:4352
+#: ../widgets/modulify-all-widgets.php:4614
+msgid "Category Show"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:760
+#: ../widgets/modulify-all-widgets.php:1264
+#: ../widgets/modulify-all-widgets.php:1610
+#: ../widgets/modulify-all-widgets.php:1832
+#: ../widgets/modulify-all-widgets.php:2223
+#: ../widgets/modulify-all-widgets.php:2562
+#: ../widgets/modulify-all-widgets.php:2736
+#: ../widgets/modulify-all-widgets.php:3088
+#: ../widgets/modulify-all-widgets.php:3307
+#: ../widgets/modulify-all-widgets.php:3569
+#: ../widgets/modulify-all-widgets.php:3830
+#: ../widgets/modulify-all-widgets.php:4102
+#: ../widgets/modulify-all-widgets.php:4365
+#: ../widgets/modulify-all-widgets.php:4627
+msgid "Category Typography"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:772
+#: ../widgets/modulify-all-widgets.php:792
+#: ../widgets/modulify-all-widgets.php:812
+#: ../widgets/modulify-all-widgets.php:832
+#: ../widgets/modulify-all-widgets.php:852
+#: ../widgets/modulify-all-widgets.php:1275
+#: ../widgets/modulify-all-widgets.php:1621
+#: ../widgets/modulify-all-widgets.php:1843
+#: ../widgets/modulify-all-widgets.php:2234
+#: ../widgets/modulify-all-widgets.php:2255
+#: ../widgets/modulify-all-widgets.php:2573
+#: ../widgets/modulify-all-widgets.php:2747
+#: ../widgets/modulify-all-widgets.php:3099
+#: ../widgets/modulify-all-widgets.php:3318
+#: ../widgets/modulify-all-widgets.php:3580
+#: ../widgets/modulify-all-widgets.php:3841
+#: ../widgets/modulify-all-widgets.php:4113
+#: ../widgets/modulify-all-widgets.php:4376
+#: ../widgets/modulify-all-widgets.php:4638
+msgid "Category Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:871
+#: ../widgets/modulify-all-widgets.php:1295
+#: ../widgets/modulify-all-widgets.php:1641
+#: ../widgets/modulify-all-widgets.php:1863
+#: ../widgets/modulify-all-widgets.php:2275
+#: ../widgets/modulify-all-widgets.php:2596
+#: ../widgets/modulify-all-widgets.php:2766
+#: ../widgets/modulify-all-widgets.php:3118
+#: ../widgets/modulify-all-widgets.php:3337
+#: ../widgets/modulify-all-widgets.php:3599
+#: ../widgets/modulify-all-widgets.php:3860
+#: ../widgets/modulify-all-widgets.php:4132
+#: ../widgets/modulify-all-widgets.php:4395
+#: ../widgets/modulify-all-widgets.php:4657
+msgid "Title Style"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:881
+#: ../widgets/modulify-all-widgets.php:1305
+#: ../widgets/modulify-all-widgets.php:1651
+#: ../widgets/modulify-all-widgets.php:1873
+#: ../widgets/modulify-all-widgets.php:2285
+#: ../widgets/modulify-all-widgets.php:2606
+#: ../widgets/modulify-all-widgets.php:2776
+#: ../widgets/modulify-all-widgets.php:3128
+#: ../widgets/modulify-all-widgets.php:3347
+#: ../widgets/modulify-all-widgets.php:3609
+#: ../widgets/modulify-all-widgets.php:3870
+#: ../widgets/modulify-all-widgets.php:4142
+#: ../widgets/modulify-all-widgets.php:4405
+#: ../widgets/modulify-all-widgets.php:4667
+msgid "Title Typography"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:891
+#: ../widgets/modulify-all-widgets.php:932
+#: ../widgets/modulify-all-widgets.php:973
+#: ../widgets/modulify-all-widgets.php:1014
+#: ../widgets/modulify-all-widgets.php:1055
+#: ../widgets/modulify-all-widgets.php:1314
+#: ../widgets/modulify-all-widgets.php:1660
+#: ../widgets/modulify-all-widgets.php:1882
+#: ../widgets/modulify-all-widgets.php:2294
+#: ../widgets/modulify-all-widgets.php:2338
+#: ../widgets/modulify-all-widgets.php:2413
+#: ../widgets/modulify-all-widgets.php:2615
+#: ../widgets/modulify-all-widgets.php:2785
+#: ../widgets/modulify-all-widgets.php:3137
+#: ../widgets/modulify-all-widgets.php:3356
+#: ../widgets/modulify-all-widgets.php:3618
+#: ../widgets/modulify-all-widgets.php:3879
+#: ../widgets/modulify-all-widgets.php:4151
+#: ../widgets/modulify-all-widgets.php:4414
+#: ../widgets/modulify-all-widgets.php:4676
+msgid "Title Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:911
+#: ../widgets/modulify-all-widgets.php:952
+#: ../widgets/modulify-all-widgets.php:993
+#: ../widgets/modulify-all-widgets.php:1034
+#: ../widgets/modulify-all-widgets.php:1075
+#: ../widgets/modulify-all-widgets.php:1330
+#: ../widgets/modulify-all-widgets.php:1676
+#: ../widgets/modulify-all-widgets.php:1898
+#: ../widgets/modulify-all-widgets.php:2315
+#: ../widgets/modulify-all-widgets.php:2358
+#: ../widgets/modulify-all-widgets.php:2634
+#: ../widgets/modulify-all-widgets.php:2802
+#: ../widgets/modulify-all-widgets.php:3154
+#: ../widgets/modulify-all-widgets.php:3373
+#: ../widgets/modulify-all-widgets.php:3635
+#: ../widgets/modulify-all-widgets.php:3896
+#: ../widgets/modulify-all-widgets.php:4168
+#: ../widgets/modulify-all-widgets.php:4431
+#: ../widgets/modulify-all-widgets.php:4693
+msgid "Title Hover Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1119
+#: ../widgets/modulify-all-widgets.php:1415
+#: ../widgets/modulify-all-widgets.php:3195
+#: ../widgets/modulify-all-widgets.php:3456
+#: ../widgets/modulify-all-widgets.php:3717
+#: ../widgets/modulify-all-widgets.php:3976
+#: ../widgets/modulify-all-widgets.php:4252
+#: ../widgets/modulify-all-widgets.php:4514
+msgid "Autoplay"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1122
+#: ../widgets/modulify-all-widgets.php:1418
+#: ../widgets/modulify-all-widgets.php:3198
+#: ../widgets/modulify-all-widgets.php:3459
+#: ../widgets/modulify-all-widgets.php:3720
+#: ../widgets/modulify-all-widgets.php:3979
+#: ../widgets/modulify-all-widgets.php:4255
+#: ../widgets/modulify-all-widgets.php:4517
+msgid "Enabled"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1123
+#: ../widgets/modulify-all-widgets.php:1419
+#: ../widgets/modulify-all-widgets.php:3199
+#: ../widgets/modulify-all-widgets.php:3460
+#: ../widgets/modulify-all-widgets.php:3721
+#: ../widgets/modulify-all-widgets.php:3980
+#: ../widgets/modulify-all-widgets.php:4256
+#: ../widgets/modulify-all-widgets.php:4518
+msgid "Disabled"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1132
+#: ../widgets/modulify-all-widgets.php:1428
+#: ../widgets/modulify-all-widgets.php:3208
+#: ../widgets/modulify-all-widgets.php:3469
+#: ../widgets/modulify-all-widgets.php:3730
+#: ../widgets/modulify-all-widgets.php:3989
+#: ../widgets/modulify-all-widgets.php:4265
+#: ../widgets/modulify-all-widgets.php:4527
+msgid "Autoplay Time in Milliseconds"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1144
+#: ../widgets/modulify-all-widgets.php:1440
+#: ../widgets/modulify-all-widgets.php:1714
+#: ../widgets/modulify-all-widgets.php:2959
+msgid "Columns Number"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1162
+#: ../widgets/modulify-all-widgets.php:1458
+#: ../widgets/modulify-all-widgets.php:1732
+msgid "Title Holder Type"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1165
+#: ../widgets/modulify-all-widgets.php:1360
+#: ../widgets/modulify-all-widgets.php:1461
+#: ../widgets/modulify-all-widgets.php:1735
+#: ../widgets/modulify-all-widgets.php:1928
+#: ../widgets/modulify-all-widgets.php:3403
+#: ../widgets/modulify-all-widgets.php:3665
+#: ../widgets/modulify-all-widgets.php:4199
+#: ../widgets/modulify-all-widgets.php:4461
+#: ../widgets/modulify-all-widgets.php:4724
+msgid "Static"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1166
+#: ../widgets/modulify-all-widgets.php:1462
+#: ../widgets/modulify-all-widgets.php:1736
+msgid "Dynamic"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1167
+#: ../widgets/modulify-all-widgets.php:1737
+msgid "Smooth"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1176
+#: ../widgets/modulify-all-widgets.php:1521
+#: ../widgets/modulify-all-widgets.php:1746
+msgid "Separator Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1192
+#: ../widgets/modulify-all-widgets.php:1537
+#: ../widgets/modulify-all-widgets.php:1761
+#: ../widgets/modulify-all-widgets.php:2063
+#: ../widgets/modulify-all-widgets.php:3235
+#: ../widgets/modulify-all-widgets.php:3481
+#: ../widgets/modulify-all-widgets.php:3742
+#: ../widgets/modulify-all-widgets.php:4014
+#: ../widgets/modulify-all-widgets.php:4277
+#: ../widgets/modulify-all-widgets.php:4539
+msgid "Navigation Types"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1195
+#: ../widgets/modulify-all-widgets.php:1540
+#: ../widgets/modulify-all-widgets.php:1764
+#: ../widgets/modulify-all-widgets.php:2066
+#: ../widgets/modulify-all-widgets.php:3238
+#: ../widgets/modulify-all-widgets.php:3484
+#: ../widgets/modulify-all-widgets.php:3745
+#: ../widgets/modulify-all-widgets.php:4017
+#: ../widgets/modulify-all-widgets.php:4280
+#: ../widgets/modulify-all-widgets.php:4542
+msgid "Round"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1196
+#: ../widgets/modulify-all-widgets.php:1541
+#: ../widgets/modulify-all-widgets.php:1765
+#: ../widgets/modulify-all-widgets.php:2006
+#: ../widgets/modulify-all-widgets.php:2067
+#: ../widgets/modulify-all-widgets.php:2494
+#: ../widgets/modulify-all-widgets.php:2863
+#: ../widgets/modulify-all-widgets.php:3239
+#: ../widgets/modulify-all-widgets.php:3485
+#: ../widgets/modulify-all-widgets.php:3746
+#: ../widgets/modulify-all-widgets.php:4018
+#: ../widgets/modulify-all-widgets.php:4281
+#: ../widgets/modulify-all-widgets.php:4543
+msgid "Square"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1206
+#: ../widgets/modulify-all-widgets.php:1551
+#: ../widgets/modulify-all-widgets.php:1774
+#: ../widgets/modulify-all-widgets.php:2080
+#: ../widgets/modulify-all-widgets.php:2127
+#: ../widgets/modulify-all-widgets.php:3249
+#: ../widgets/modulify-all-widgets.php:3511
+#: ../widgets/modulify-all-widgets.php:3772
+#: ../widgets/modulify-all-widgets.php:4044
+#: ../widgets/modulify-all-widgets.php:4307
+#: ../widgets/modulify-all-widgets.php:4569
+msgid "Navigation Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1345
+#: ../widgets/modulify-all-widgets.php:1913
+#: ../widgets/modulify-all-widgets.php:3388
+#: ../widgets/modulify-all-widgets.php:3650
+#: ../widgets/modulify-all-widgets.php:3911
+#: ../widgets/modulify-all-widgets.php:4184
+#: ../widgets/modulify-all-widgets.php:4446
+#: ../widgets/modulify-all-widgets.php:4709
+msgid "Read More Style"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1354
+#: ../widgets/modulify-all-widgets.php:1922
+#: ../widgets/modulify-all-widgets.php:3397
+#: ../widgets/modulify-all-widgets.php:3659
+#: ../widgets/modulify-all-widgets.php:4193
+#: ../widgets/modulify-all-widgets.php:4455
+#: ../widgets/modulify-all-widgets.php:4718
+msgid "Link Types"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1357
+#: ../widgets/modulify-all-widgets.php:1925
+#: ../widgets/modulify-all-widgets.php:3400
+#: ../widgets/modulify-all-widgets.php:3662
+#: ../widgets/modulify-all-widgets.php:4196
+#: ../widgets/modulify-all-widgets.php:4458
+#: ../widgets/modulify-all-widgets.php:4721
+msgid "None"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1358
+#: ../widgets/modulify-all-widgets.php:1926
+#: ../widgets/modulify-all-widgets.php:3401
+#: ../widgets/modulify-all-widgets.php:3663
+#: ../widgets/modulify-all-widgets.php:4197
+#: ../widgets/modulify-all-widgets.php:4459
+#: ../widgets/modulify-all-widgets.php:4722
+msgid "Extendable"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1359
+#: ../widgets/modulify-all-widgets.php:1927
+#: ../widgets/modulify-all-widgets.php:3402
+#: ../widgets/modulify-all-widgets.php:3664
+#: ../widgets/modulify-all-widgets.php:4198
+#: ../widgets/modulify-all-widgets.php:4460
+#: ../widgets/modulify-all-widgets.php:4723
+msgid "Transform"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1369
+#: ../widgets/modulify-all-widgets.php:1937
+#: ../widgets/modulify-all-widgets.php:3412
+#: ../widgets/modulify-all-widgets.php:3674
+#: ../widgets/modulify-all-widgets.php:4208
+#: ../widgets/modulify-all-widgets.php:4470
+#: ../widgets/modulify-all-widgets.php:4733
+msgid "Read More Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1474
+#: ../widgets/modulify-all-widgets.php:2875
+msgid "Title Holder Position"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1477
+msgid "Top"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1478
+msgid "Middle"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1479
+msgid "Bottom"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1488
+msgid "Title Holder Alignment"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1491
+msgid "Left Align"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1492
+msgid "Center Align"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1493
+msgid "Right Align"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1505
+#: ../widgets/modulify-all-widgets.php:2889
+msgid "Title Holder Background"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:1990
+msgid "Mini"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2001
+msgid "Item Ratio"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2004
+#: ../widgets/modulify-all-widgets.php:2492
+#: ../widgets/modulify-all-widgets.php:2861
+msgid "Landscape"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2005
+#: ../widgets/modulify-all-widgets.php:2493
+#: ../widgets/modulify-all-widgets.php:2862
+msgid "Portrait"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2044
+#: ../widgets/modulify-all-widgets.php:2906
+#: ../widgets/modulify-all-widgets.php:3220
+msgid "Title Holder Background Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2165
+msgid "Numbers Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2394
+msgid "Content Part"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2402
+msgid "Title"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2404
+msgid "Type your title text here"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2405
+msgid "Modern Photo Carousel"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2429
+msgid "Description"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2431
+msgid "Type your description text here"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2432
+msgid ""
+"Cras aliquam sagitadditis urna in vutsanili consectetur.Vivamus nuriaec "
+"lacus sed odio metus lobortis at."
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2439
+msgid "Description Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2455
+msgid "Choose Your Sign"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2489
+msgid "Image Ratio"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2504
+msgid "Title Background Overlay"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2507
+#: ../widgets/modulify-all-widgets.php:2892
+msgid "No Overlay"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2677
+msgid "Image Height (px)"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2696
+msgid "Image Gutter (px)"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2847
+msgid "Masonry"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2848
+msgid "Grid"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2858
+msgid "Grid Ratio"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2878
+msgid "Inside"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2879
+msgid "Outside"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2880
+msgid "On Hover"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2924
+msgid "Title Holder Background Color on Hover"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2943
+msgid "Title Holder Animation"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2946
+msgid "Full Overlay"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2947
+msgid "Boxed Overlay"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:2981
+msgid "Columns Gutter (px)"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:3005
+msgid "Filter By Category"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:3018
+msgid "Filter Typography"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:3029
+msgid "Filter Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:3047
+msgid "On Hover and Selected Filter Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:3494
+#: ../widgets/modulify-all-widgets.php:3755
+#: ../widgets/modulify-all-widgets.php:4027
+#: ../widgets/modulify-all-widgets.php:4290
+#: ../widgets/modulify-all-widgets.php:4552
+msgid "Numbered Navigation Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:3921
+msgid "Read More Background Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:3937
+msgid "Read More Arrow Color"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:4001
+msgid "Title Holder Skin"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:4004
+msgid "Black"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:4005
+msgid "White"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:4757
+msgid "Lightbox"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:4767
+msgid "Lightbox to Images"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:4770
+msgid "Enable"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:4771
+msgid "Disable"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:4783
+#: ../widgets/modulify-all-widgets.php:4792
+msgid "Read More"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:4789
+msgid "Read More Text"
+msgstr ""
+
+#: ../widgets/modulify-all-widgets.php:4791
+msgid "Read More Text Here..."
+msgstr ""
